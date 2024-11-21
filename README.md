@@ -1,17 +1,16 @@
 
-```markdown
+```
 # Admin Finder Tool
-
-**Admin Finder Tool** เป็นเครื่องมือสำหรับค้นหา Admin Panel ของเว็บไซต์ รองรับการสแกน Subdomain และเส้นทางที่ใช้บ่อยในระบบ PHP, ASP และทั่วไป
+Admin Finder Tool เป็นเครื่องมือสำหรับค้นหา Admin Panel ของเว็บไซต์ รองรับการสแกน Subdomain และเส้นทางที่ใช้บ่อยในระบบ PHP, ASP และทั่วไป
 ---
-## **ใช้ทําอะไร ?**
+## ใช้ทําอะไร 
 - ค้นหาเส้นทาง Admin Panel เช่น `/admin`, `/cpanel`, `/login`.
 - รองรับระบบ PHP, ASP และเส้นทางทั่วไป.
 - สแกน Subdomain เช่น `admin.example.com`, `cpanel.example.com`.
 - มีอินเทอร์เฟซใช้งานง่าย ใช้สีช่วยแสดงผลผ่าน `Colorama`.
 
 ---
-![Admin Finder Tool UI](./UI.PNG)
+![Description of Image](./UI.PNG)
 
 ---
 ## **วิธีติดตั้งและใช้งาน**
